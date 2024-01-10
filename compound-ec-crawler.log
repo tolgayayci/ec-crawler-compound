@@ -1,0 +1,117 @@
+2024-01-10 14:46:10,780 - INFO - Script started. Initialized GitHub API.
+2024-01-10 14:46:10,780 - INFO - Main function started.
+2024-01-10 14:46:10,780 - INFO - Syncing fork with upstream repository.
+2024-01-10 14:46:12,782 - INFO - Fork is already up-to-date with the upstream repository.
+2024-01-10 14:46:13,301 - INFO - Fetching current projects from compound.toml.
+2024-01-10 14:46:13,557 - INFO - Pushing changes to the forked repository.
+2024-01-10 14:46:14,870 - INFO - Request POST /repos/tolgayayci/crypto-ecosystems/git/refs failed with 403: Forbidden
+2024-01-10 14:46:14,871 - ERROR - An error occurred: 403 {"message": "Resource not accessible by personal access token", "documentation_url": "https://docs.github.com/rest/git/refs#create-a-reference"}
+2024-01-10 14:47:18,443 - INFO - Script started. Initialized GitHub API.
+2024-01-10 14:47:18,445 - INFO - Main function started.
+2024-01-10 14:47:18,445 - INFO - Syncing fork with upstream repository.
+2024-01-10 14:47:20,681 - INFO - Fork is already up-to-date with the upstream repository.
+2024-01-10 14:47:21,052 - INFO - Fetching current projects from compound.toml.
+2024-01-10 14:47:21,461 - INFO - Pushing changes to the forked repository.
+2024-01-10 14:47:26,951 - INFO - Pull request created in the forked repo: https://github.com/tolgayayci/crypto-ecosystems/pull/1
+2024-01-10 14:52:45,601 - INFO - Script started. Initialized GitHub API.
+2024-01-10 14:52:45,602 - INFO - Main function started.
+2024-01-10 14:52:45,602 - INFO - Syncing fork with upstream repository.
+2024-01-10 14:52:47,294 - INFO - Fork is already up-to-date with the upstream repository.
+2024-01-10 14:52:47,777 - INFO - Fetching current projects from compound.toml.
+2024-01-10 14:52:48,080 - INFO - Starting search for new repositories.
+2024-01-10 14:52:48,080 - INFO - Searching for filename:package.json compound-finance/compound-js size:0..1500
+2024-01-10 14:52:48,080 - INFO -  * size range 0..1500 - page [1/10]
+2024-01-10 14:52:48,809 - INFO - Found 50 results
+
+2024-01-10 14:52:48,810 - INFO - Searching for filename:package.json compound-finance/compound-js size:1500..3000
+2024-01-10 14:52:48,810 - INFO -  * size range 1500..3000 - page [1/10]
+2024-01-10 14:52:49,275 - INFO - Found 9 results
+
+2024-01-10 14:52:49,275 - INFO - Searching for filename:package.json compound-finance/compound-js size:3000..15000
+2024-01-10 14:52:49,275 - INFO -  * size range 3000..15000 - page [1/10]
+2024-01-10 14:52:49,716 - INFO - Found 6 results
+
+2024-01-10 14:52:49,717 - INFO - Searching for filename:package-lock.json compound-finance/compound-js size:0..1500
+2024-01-10 14:52:49,718 - INFO -  * size range 0..1500 - page [1/10]
+2024-01-10 14:52:50,181 - INFO - No more results
+
+2024-01-10 14:52:50,181 - INFO - Searching for filename:package-lock.json compound-finance/compound-js size:1500..3000
+2024-01-10 14:52:50,181 - INFO -  * size range 1500..3000 - page [1/10]
+2024-01-10 14:52:50,700 - INFO - No more results
+
+2024-01-10 14:52:50,700 - INFO - Searching for filename:package-lock.json compound-finance/compound-js size:3000..15000
+2024-01-10 14:52:50,700 - INFO -  * size range 3000..15000 - page [1/10]
+2024-01-10 14:52:51,059 - INFO - No more results
+
+2024-01-10 14:52:51,060 - INFO - Searching for filename:yarn.lock compound-finance/compound-js size:0..1500
+2024-01-10 14:52:51,060 - INFO -  * size range 0..1500 - page [1/10]
+2024-01-10 14:52:51,639 - INFO - No more results
+
+2024-01-10 14:52:51,640 - INFO - Searching for filename:yarn.lock compound-finance/compound-js size:1500..3000
+2024-01-10 14:52:51,640 - INFO -  * size range 1500..3000 - page [1/10]
+2024-01-10 14:52:52,069 - INFO - No more results
+
+2024-01-10 14:52:52,069 - INFO - Searching for filename:yarn.lock compound-finance/compound-js size:3000..15000
+2024-01-10 14:52:52,069 - INFO -  * size range 3000..15000 - page [1/10]
+2024-01-10 14:52:52,481 - INFO - No more results
+
+2024-01-10 14:52:52,481 - INFO - Searching for filename:package.json compound-finance/comet-extension size:0..1500
+2024-01-10 14:52:52,481 - INFO -  * size range 0..1500 - page [1/10]
+2024-01-10 14:52:52,818 - WARNING - Rate limit exceeded. Sleeping for 116 seconds.
+2024-01-10 14:54:49,434 - INFO - Found 2 results
+
+2024-01-10 14:54:49,436 - INFO - Searching for filename:package.json compound-finance/comet-extension size:1500..3000
+2024-01-10 14:54:49,436 - INFO -  * size range 1500..3000 - page [1/10]
+2024-01-10 14:54:49,994 - INFO - Found 5 results
+
+2024-01-10 14:54:49,994 - INFO - Searching for filename:package.json compound-finance/comet-extension size:3000..15000
+2024-01-10 14:54:49,994 - INFO -  * size range 3000..15000 - page [1/10]
+2024-01-10 14:54:50,553 - INFO - No more results
+
+2024-01-10 14:54:50,553 - INFO - Searching for filename:package-lock.json compound-finance/comet-extension size:0..1500
+2024-01-10 14:54:50,553 - INFO -  * size range 0..1500 - page [1/10]
+2024-01-10 14:54:51,158 - INFO - No more results
+
+2024-01-10 14:54:51,158 - INFO - Searching for filename:package-lock.json compound-finance/comet-extension size:1500..3000
+2024-01-10 14:54:51,159 - INFO -  * size range 1500..3000 - page [1/10]
+2024-01-10 14:54:51,651 - INFO - No more results
+
+2024-01-10 14:54:51,651 - INFO - Searching for filename:package-lock.json compound-finance/comet-extension size:3000..15000
+2024-01-10 14:54:51,651 - INFO -  * size range 3000..15000 - page [1/10]
+2024-01-10 14:54:52,206 - INFO - No more results
+
+2024-01-10 14:54:52,206 - INFO - Searching for filename:yarn.lock compound-finance/comet-extension size:0..1500
+2024-01-10 14:54:52,206 - INFO -  * size range 0..1500 - page [1/10]
+2024-01-10 14:54:52,678 - INFO - No more results
+
+2024-01-10 14:54:52,678 - INFO - Searching for filename:yarn.lock compound-finance/comet-extension size:1500..3000
+2024-01-10 14:54:52,678 - INFO -  * size range 1500..3000 - page [1/10]
+2024-01-10 14:54:53,272 - INFO - No more results
+
+2024-01-10 14:54:53,272 - INFO - Searching for filename:yarn.lock compound-finance/comet-extension size:3000..15000
+2024-01-10 14:54:53,272 - INFO -  * size range 3000..15000 - page [1/10]
+2024-01-10 14:54:53,728 - INFO - No more results
+
+2024-01-10 14:54:53,728 - INFO - Searching for filename:package.json compound-config size:0..1500
+2024-01-10 14:54:53,728 - INFO -  * size range 0..1500 - page [1/10]
+2024-01-10 14:54:54,304 - WARNING - Rate limit exceeded. Sleeping for 115 seconds.
+2024-01-10 14:56:49,783 - INFO - No more results
+
+2024-01-10 14:56:49,784 - INFO - Searching for filename:package.json compound-config size:1500..3000
+2024-01-10 14:56:49,785 - INFO -  * size range 1500..3000 - page [1/10]
+2024-01-10 14:56:50,505 - INFO - Found 5 results
+
+2024-01-10 14:56:50,505 - INFO - Searching for filename:package.json compound-config size:3000..15000
+2024-01-10 14:56:50,505 - INFO -  * size range 3000..15000 - page [1/10]
+2024-01-10 14:56:51,385 - INFO - Found 3 results
+
+2024-01-10 14:56:51,385 - INFO - Searching for filename:package-lock.json compound-finance/compound-config size:0..1500
+2024-01-10 14:56:51,385 - INFO -  * size range 0..1500 - page [1/10]
+2024-01-10 14:56:51,778 - INFO - No more results
+
+2024-01-10 14:56:51,778 - INFO - Searching for filename:package-lock.json compound-finance/compound-config size:1500..3000
+2024-01-10 14:56:51,778 - INFO -  * size range 1500..3000 - page [1/10]
+2024-01-10 14:56:52,272 - INFO - No more results
+
+2024-01-10 14:56:52,273 - INFO - Searching for filename:package-lock.json compound-finance/compound-config size:3000..15000
+2024-01-10 14:56:52,273 - INFO -  * size range 3000..15000 - page [1/10]
